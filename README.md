@@ -1,4 +1,2 @@
 # AlenaKovalchuk.github.io
-
-
-Sasha zaika
+# Sasha zaika
